@@ -1,1 +1,2 @@
 # Inductive_Medium
+This github is used for [How to use Inductive Proximity Sensor with Raspberry Pi 3 Model B [Python]](https://medium.com/@TanakittiSachati/how-to-use-inductive-proximity-sensor-with-raspberry-pi-3-model-b-python-539ecc731bf3)
